@@ -1,0 +1,15 @@
+names:
+- depan
+- miring kanan
+- miring kiri
+- nunduk
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: comvis-head-movement-project-3
+  url: https://universe.roboflow.com/pergerakan-kepala/comvis-head-movement-project-3/dataset/1
+  version: 1
+  workspace: pergerakan-kepala
+test: ./dataset/test/images
+train: ./dataset/train/images
+val: ./dataset/valid/images
